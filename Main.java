@@ -1,3 +1,9 @@
+//No longer the current version.
+//Please use MathQuiz.java.
+
+//Old version of math quiz.  Please use MathQuiz.java 
+//as it has data integrity checks and allows for different
+//questions.
 package com.shanes_company;
 import java.util.Scanner;
 
